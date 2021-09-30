@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vidikLab1</string>
+    <string name="ttt">Enter the name of flower</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="grn">50grn</string>
+    <string name="grn2">70grn</string>
+    <string name="grn3">100grn</string>
+</resources>
